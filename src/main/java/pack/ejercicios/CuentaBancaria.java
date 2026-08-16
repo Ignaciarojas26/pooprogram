@@ -6,7 +6,7 @@ public class CuentaBancaria {
     int numeroCuenta;
     double saldoCuenta;
 
-    public CuentaBancaria(String titularCuenta, String tipoDeCuenta, int numeroCuenta, double saldoCuenta) {
+    public CuentaBancaria(String titularCuenta, String tipoDeCuenta, int numeroCuenta) {
         this.titularCuenta = titularCuenta;
         this.tipoDeCuenta = tipoDeCuenta;
         this.numeroCuenta = numeroCuenta;
